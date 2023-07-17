@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gangadhar939
-- 👀 I’m interested in computer technologies
-- 🌱 I’m currently learning android development and machine learning
+- 👀 Aspiring Computer Science Engineer
+- 🌱 CSE'23 graduate from RGUKT RK Valley
 
 
 <!---
